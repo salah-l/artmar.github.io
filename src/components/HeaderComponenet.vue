@@ -4,7 +4,7 @@
     <nav class="nav container">
       <a href="#" class="nav__logo">
         <!-- <i class="bx bxs-watch nav__logo-icon"></i> Rolex -->
-        <img src="img/meta/logo.png" alt="" class="logo_artmar" />
+        <img src="/img/meta/logo.png" alt="" class="logo_artmar" />
       </a>
 
       <div class="nav__menu z-[9999]" id="nav-menu">

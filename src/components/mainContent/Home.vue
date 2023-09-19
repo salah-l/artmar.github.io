@@ -3,7 +3,7 @@
   <section class="home" id="home">
     <div class="home__container container grid">
       <div class="home__img-bg">
-        <img src="img/meta/home.jpg" alt="" class="home__img" />
+        <img src="/img/meta/home.jpg" alt="" class="home__img" />
       </div>
 
       <!-- <div class="home__social">
