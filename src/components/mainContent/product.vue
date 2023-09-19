@@ -1,7 +1,7 @@
 <!-- Product.vue -->
 <template>
   <article class="products__card min-h-[250px]">
-    <img :src="`/img/products/product${product.img.id}.png`" alt="" class="products__img mx-auto" />
+    <img :src="`img/products/product${product.img.id}.png`" alt="" class="products__img mx-auto" />
 
     <h3 class="products__title mt-[-10px]">{{ product.name }}</h3>
     <span class="products__price mt-[-10px]"
